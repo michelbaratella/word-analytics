@@ -57,6 +57,7 @@ textarea {
   resize: none;
   flex: 2;
   font: inherit;
+  color: #4d5457;
   padding: 30px 40px;
   font-size: 22px;
 }
